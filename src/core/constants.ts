@@ -1,6 +1,6 @@
-export const APP_VERSION = '100.0.0.17.129';
-export const APP_VERSION_CODE = '161478673';
-export const SIGNATURE_KEY = 'e0767f8a7ae9f6c1f9d3674be35d96117f0589960bf3dbd2921f020b33ca4b9f';
+export const APP_VERSION = '107.0.0.27.121';
+export const APP_VERSION_CODE = '168361634';
+export const SIGNATURE_KEY = 'c36436a942ea1dbb40d7f2d7d45280a620d991ce8c62fb4ce600f0a048c32c11';
 export const BREADCRUMB_KEY = 'iN4$aGr0m';
 export const SIGNATURE_VERSION = '4';
 export const EXPERIMENTS =
